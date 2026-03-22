@@ -49,3 +49,4 @@ using
 diffrent
 algorithm
 but
+each
